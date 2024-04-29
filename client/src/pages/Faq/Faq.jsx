@@ -20,7 +20,7 @@ function Faq() {
           aria-controls="panel1-content"
           id="panel1-header"
         >
-          <Typography className='title' style={{fontFamily:"Poppins"}}>Quels types de services proposons-nous ?</Typography>
+          <Typography className='title' style={{fontFamily:"Poppins", fontWeight:'300'}}>Quels types de services proposons-nous ?</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography style={{fontFamily:"Poppins"}}>
