@@ -26,6 +26,7 @@
 
 .description {
   font-family: "poppins";
+  font-weight: 300;
   font-size: clamp(0.5rem, 2.5vw, 0.8rem);
   margin-top: 0;
   color: black;
