@@ -41,7 +41,7 @@
 
 @media screen and (max-width: 744px) {
   #user-list {
-    top: 40%;
+    bottom: 40%;
     left: 5%;
     width: 59%;
   }
